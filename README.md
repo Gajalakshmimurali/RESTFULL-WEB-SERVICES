@@ -1,6 +1,6 @@
 # RESTful Web Services
 
-### Date:
+### Date:2.5.2025
 
 ## Aim
 
@@ -106,4 +106,6 @@ Step 12: Run the JSP file and you should see the output in a new browser window.
 ## Result
 
 The implementation of RESTful web services using both server-side and client-side components was successfully created and executed.
+
+
 
